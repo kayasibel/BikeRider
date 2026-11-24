@@ -11,4 +11,4 @@ Bu repo yalnızca oyunun derlenmiş **WebGL test sürümünü** içerir (kaynak 
 ## Notlar
 - Oyun dikey ekran için tasarlandı; telefonda en iyi deneyim için telefonu dik tutun.
 - Test sürümünde gölgeler kapalı (bazı tarayıcılarda WebGL gölge uyumsuzluğu var).
-- İlk açılışta ~55 MB indirilir; sonraki açılışlarda tarayıcı önbelleği kullanılır.
+- İlk açılışta ~25 MB indirilir; diğer bisiklet modelleri garajda seçilince iner (0,2-0,4 MB); sonraki açılışlarda tarayıcı önbelleği kullanılır.
